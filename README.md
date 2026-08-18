@@ -53,8 +53,8 @@ HR teams need a quick way to see where and why employees are leaving. This dashb
 - Overall, early-career, lower-paid employees in Sales and HR are the highest-risk group for attrition.
 
 ## Repository Contents
-- `HR_Analytics_Dashboard_Project.pbix` — Power BI report file
-- `HR_project_Power_BI.xlsx` — source dataset
+- `HR Analytics Dashboard Project.pbix` — Power BI report file
+- `HR project Power BI.xlsx` — source dataset
 
 
 ## How to View
